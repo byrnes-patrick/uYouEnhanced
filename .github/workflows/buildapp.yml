@@ -17,7 +17,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "Direct URL of the decrypted YouTube IPA"
+        description: "https://armconverter.com/decryptedappstore/download/544007664/com.google.ios.youtube/19.23.3?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjM2MzE5MywiaWF0IjoxNzE4NTk2MTcxLCJleHAiOjE3MTg2MDY5NzEsImFwcGlkIjo1NDQwMDc2NjQsImFwcHZlciI6IjE5LjIzLjMifQ.UyegD4aQXeuvH3bLb7B6ywsIpfT8Wh7xGfvoVyYp0Bg"
         default: ""
         required: true
         type: string
